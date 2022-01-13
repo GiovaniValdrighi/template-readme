@@ -4,7 +4,7 @@ This is my template for the README file of my projects avaiable at Github. This 
 
 # Files organization
 
-The files of the project are dived in the following folders:
+The files of the project are separated in the following folders:
 
 - `/docs`: documentation of the project.
 
