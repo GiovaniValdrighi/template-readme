@@ -6,9 +6,9 @@ This is my template for the README file of my projects avaiable at Github. This 
 
 The files of the project are separated in the following folders:
 
-- `/docs`: documentation of the project.
+- `docs/`: documentation of the project.
 
-- `/src`: main files of the programming language.
+- `src/`: main files of the programming language.
 
 # Requirements
 
